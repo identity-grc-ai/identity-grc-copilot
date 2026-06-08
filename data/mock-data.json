@@ -1,0 +1,7 @@
+{
+  "mfaCoverage": 72,
+  "usersWithoutMFA": 3200,
+  "legacyAuthEnabled": true,
+  "globalAdmins": 5,
+  "riskySignIns": 120
+}
