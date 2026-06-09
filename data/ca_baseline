@@ -1,0 +1,6 @@
+Conditional Access Best Practices:
+- Require MFA for all users
+- Block legacy authentication
+- Require compliant devices
+- Block risky sign-ins
+- Minimize exclusions
