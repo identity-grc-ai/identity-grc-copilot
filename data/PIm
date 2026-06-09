@@ -1,0 +1,5 @@
+Privileged Access Best Practices:
+- Use PIM (Just-in-Time)
+- No permanent admins
+- Require approval
+- Enforce MFA
