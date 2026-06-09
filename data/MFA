@@ -1,0 +1,5 @@
+MFA Methods:
+Strong: FIDO2, Certificate
+Medium: Authenticator app
+Weak: SMS, Voice
+Risks: SIM swap, MFA fatigue
