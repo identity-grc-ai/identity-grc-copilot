@@ -106,9 +106,6 @@ Compliance evaluation
 Threat simulation
 Remediation guidance
 
-
----
-
 ## 🔥 Microsoft IQ Integration
 
 This solution applies **Microsoft Foundry IQ principles**.
